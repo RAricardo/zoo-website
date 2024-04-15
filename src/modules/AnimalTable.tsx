@@ -4,7 +4,6 @@ import { Animal } from "../types/Animal";
 import { useMemo, useState } from "react";
 import {
   Button,
-  Color,
   Paper,
   SelectChangeEvent,
   Table,
