@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zoo-website/static/css/main.8699eadb.css",
+    "main.js": "/zoo-website/static/js/main.0b21195f.js",
+    "static/js/453.7c216b3f.chunk.js": "/zoo-website/static/js/453.7c216b3f.chunk.js",
+    "index.html": "/zoo-website/index.html",
+    "main.8699eadb.css.map": "/zoo-website/static/css/main.8699eadb.css.map",
+    "main.0b21195f.js.map": "/zoo-website/static/js/main.0b21195f.js.map",
+    "453.7c216b3f.chunk.js.map": "/zoo-website/static/js/453.7c216b3f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8699eadb.css",
+    "static/js/main.0b21195f.js"
+  ]
+}
